@@ -1,0 +1,30 @@
+_repo: The-Fighting-Governor--A-Chronicle-of-Frontenac_30258
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colby, Charles W. (Charles William)
+    alias: Colby, Charles William
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '1402'
+    url: http://www.gutenberg.org/2009/agents/1402
+description: With Illustrations. See also PG#5146 text only version.
+gutenberg_issued: '2009-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30258'
+  lccn: '16021427'
+language: en
+publication_note: 'Toronto :  Glasgow, Brook & Company,  1915'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontenac, Louis de Buade, comte de, 1620-1698'
+- !lcc 'F1001'
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+title: 'The Fighting Governor: A Chronicle of Frontenac'
+url: http://www.gutenberg.org/ebooks/30258
